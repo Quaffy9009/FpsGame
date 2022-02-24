@@ -1,3 +1,4 @@
 [gd_scene format=2]
 
 [node name="Spatial" type="Spatial"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.77779, 0, 0.758374 )
