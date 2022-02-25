@@ -15,4 +15,7 @@ var is_on_floor = false
 func _ready():
 	pass 
 
+func _process(delta):
+	pass
+
 
